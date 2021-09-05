@@ -6,3 +6,4 @@ echo "my salary is $salary"
 echo "my location is $location"
 echo "my son $son"
 echo "my wife $wife"
+Devops is difficult
